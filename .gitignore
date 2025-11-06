@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated database and reports
+*.db           # e.g., resumescreener.db
+*.csv          # e.g., top_candidates.csv
+*.json         # e.g., screening_report.json
+
+# Logs
+*.log
